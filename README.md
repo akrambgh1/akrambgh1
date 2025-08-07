@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently building projects for my portfolio
 - 🌱 I’m learning **Next.js** and improving my backend skills
-- 👨‍💻 All of my projects are available at [My Portfolio](https://yourportfolio.com)
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: I love solving UI/UX problems and turning ideas into code
+- 📫 How to reach me: **benghezal.akram@weblocators.com**
 
 ---
 
