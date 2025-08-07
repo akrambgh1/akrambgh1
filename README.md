@@ -21,6 +21,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=akrambgh1&show_icons=true&theme=tokyonight" alt="stats" />
+  ---
   <img src="https://github-readme-streak-stats.herokuapp.com?user=akrambgh1&theme=tokyonight" alt="streak" />
 </p>
 
