@@ -7,7 +7,8 @@
 
 - 🔭 I’m currently building personal and freelance projects for my portfolio  
 - 🌱 Learning **Next.js**, and sharpening my **backend (Node.js & Firebase)** skills  
-- 📫 Reach me at: **benghezal.akram@weblocators.com**  
+- 📨 Reach me at: **benghezal.akram@weblocators.com**  
+- ⚡ Fun fact: I started coding at **15 years old**, and have been learning ever since!
 
 ---
 
@@ -21,10 +22,9 @@
 
 ### 📈 GitHub Stats
 
-<p width="100%" align="center">
-  <img alignt="left" src="https://github-readme-stats.vercel.app/api?username=akrambgh1&show_icons=true&theme=tokyonight" width="40%" />
-  
-  <img alignt="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akrambgh1&theme=tokyonight" width="40%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akrambgh1&show_icons=true&theme=tokyonight" height="100%" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akrambgh1&theme=tokyonight" height="100%" width="49%" />
 </p>
 
 ---
@@ -32,10 +32,10 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/akram-bgh-133428379" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://dev.to/YOUR_DEVTO" target="_blank">
+  <a href="https://dev.to/akram-hani" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-000000?style=flat&logo=dev.to&logoColor=white" />
   </a>
   <a href="mailto:benghezal.akram@weblocators.com">
