@@ -22,9 +22,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img alignt="left" src="https://github-readme-stats.vercel.app/api?username=akrambgh1&show_icons=true&theme=tokyonight" width="48%" />
+  <img alignt="left" src="https://github-readme-stats.vercel.app/api?username=akrambgh1&show_icons=true&theme=tokyonight" width="40%" />
   
-  <img alignt="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akrambgh1&theme=tokyonight" width="48%" />
+  <img alignt="right" src="https://github-readme-streak-stats.herokuapp.com/?user=akrambgh1&theme=tokyonight" width="40%" />
 </p>
 
 ---
