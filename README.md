@@ -20,14 +20,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akrambgh1&show_icons=true&theme=tokyonight" height="100%" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akrambgh1&theme=tokyonight" height="100%" width="49%" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
